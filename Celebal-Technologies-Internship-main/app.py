@@ -16,7 +16,7 @@ def download_model_weights(url, save_path):
         f.write(response.content)
 
 # Download the model weights if not already present
-model_weights_url = 
+model_weights_url = https://github.com/pardeepmann/celebal-project.git
 local_model_weights_path = "resnet_model.h5"
 download_model_weights(model_weights_url, local_model_weights_path)
 
